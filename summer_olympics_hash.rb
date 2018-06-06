@@ -28,5 +28,5 @@ def iterate_through_hash
 end
 
 def iterate_through_keys
-  summer_olympics 
+  upcased_cities = summer_olympics.each.upcase
 end
