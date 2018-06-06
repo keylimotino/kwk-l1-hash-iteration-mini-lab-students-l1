@@ -23,11 +23,10 @@ end
 
 def iterate_through_hash
   summer_olympics.each do |place, year|
-    
-
+    puts "The #{place} summer olympics took place in #{year}"
   end
 end
 
 def iterate_through_keys
-
+  summer_olympics 
 end
