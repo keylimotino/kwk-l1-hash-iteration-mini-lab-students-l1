@@ -3,7 +3,7 @@ def create_olympics_hash
   summer_olympics = {
   : Sydney ==> "2000",
   : Athens ==> "2004",
-  : Beijing ==> "2008"
+  : Beijing ==> "2008",
   : London ==> "2012"
   }# Implement this method so that it returns a hash with the data provided on README.md
   puts summer_olympics
